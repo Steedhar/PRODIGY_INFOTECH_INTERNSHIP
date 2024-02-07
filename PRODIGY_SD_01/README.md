@@ -1,4 +1,4 @@
-Temperature Converter
+Temperature Converter - 
 This Java application provides a simple graphical user interface (GUI) for converting temperatures between Celsius, Fahrenheit, and Kelvin scales. It allows users to input temperature values and select the unit of measurement, then converts the temperature to the other two units and displays the converted values.
 
 Features:
