@@ -7,7 +7,7 @@ Clear and intuitive user interface using Java Swing components.
 Handles invalid input gracefully and displays appropriate error messages.
 Includes a "Convert" button to initiate the conversion process.
 Provides a "Refresh" button to clear input fields and results.
-Usage:
+    Usage:
 Enter the temperature value in the input field.
 Select the unit of measurement (Celsius, Fahrenheit, or Kelvin) from the dropdown menu.
 Click the "Convert" button to perform the conversion.
